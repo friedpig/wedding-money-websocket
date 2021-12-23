@@ -1,0 +1,3 @@
+[submodule "config_file"]
+	path = config_file
+	url = git@172.19.16.104:td1/v-manufactory/websocket-server-config.git
